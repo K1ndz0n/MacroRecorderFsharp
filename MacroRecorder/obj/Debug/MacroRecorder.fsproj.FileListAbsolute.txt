@@ -1,0 +1,96 @@
+C:\Users\votri\Desktop\funkcyjne projekt\funkcyjne projekt\bin\Debug\funkcyjne_projekt.xml
+C:\Users\votri\Desktop\funkcyjne projekt\funkcyjne projekt\bin\Debug\funkcyjne_projekt.exe
+C:\Users\votri\Desktop\funkcyjne projekt\funkcyjne projekt\bin\Debug\funkcyjne_projekt.pdb
+C:\Users\votri\Desktop\funkcyjne projekt\funkcyjne projekt\bin\Debug\FSharp.Core.dll
+C:\Users\votri\Desktop\funkcyjne projekt\funkcyjne projekt\bin\Debug\FSharp.Core.xml
+C:\Users\votri\Desktop\funkcyjne projekt\funkcyjne projekt\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\funkcyjne projekt\funkcyjne projekt\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\funkcyjne projekt\funkcyjne projekt\bin\Debug\en\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\funkcyjne projekt\funkcyjne projekt\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\funkcyjne projekt\funkcyjne projekt\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\funkcyjne projekt\funkcyjne projekt\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\funkcyjne projekt\funkcyjne projekt\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\funkcyjne projekt\funkcyjne projekt\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\funkcyjne projekt\funkcyjne projekt\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\funkcyjne projekt\funkcyjne projekt\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\funkcyjne projekt\funkcyjne projekt\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\funkcyjne projekt\funkcyjne projekt\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\funkcyjne projekt\funkcyjne projekt\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\funkcyjne projekt\funkcyjne projekt\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\funkcyjne projekt\funkcyjne projekt\obj\Debug\funkcyjne projekt.fsproj.AssemblyReference.cache
+C:\Users\votri\Desktop\funkcyjne projekt\funkcyjne projekt\obj\Debug\funkcyjn.837C8863.Up2Date
+C:\Users\votri\Desktop\funkcyjne projekt\funkcyjne projekt\obj\Debug\funkcyjne_projekt.exe
+C:\Users\votri\Desktop\funkcyjne projekt\funkcyjne projekt\obj\Debug\funkcyjne_projekt.pdb
+C:\Users\votri\Desktop\studia\funkcyjne projekt\funkcyjne projekt\bin\Debug\funkcyjne_projekt.xml
+C:\Users\votri\Desktop\studia\funkcyjne projekt\funkcyjne projekt\obj\Debug\funkcyjne projekt.fsproj.AssemblyReference.cache
+C:\Users\votri\Desktop\studia\funkcyjne projekt\funkcyjne projekt\obj\Debug\funkcyjne_projekt.exe
+C:\Users\votri\Desktop\studia\funkcyjne projekt\funkcyjne projekt\obj\Debug\funkcyjne_projekt.pdb
+C:\Users\votri\Desktop\studia\funkcyjne projekt\funkcyjne projekt\bin\Debug\funkcyjne_projekt.exe
+C:\Users\votri\Desktop\studia\funkcyjne projekt\funkcyjne projekt\bin\Debug\funkcyjne_projekt.pdb
+C:\Users\votri\Desktop\studia\funkcyjne projekt\funkcyjne projekt\bin\Debug\FSharp.Core.dll
+C:\Users\votri\Desktop\studia\funkcyjne projekt\funkcyjne projekt\bin\Debug\FSharp.Core.xml
+C:\Users\votri\Desktop\studia\funkcyjne projekt\funkcyjne projekt\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\studia\funkcyjne projekt\funkcyjne projekt\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\studia\funkcyjne projekt\funkcyjne projekt\bin\Debug\en\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\studia\funkcyjne projekt\funkcyjne projekt\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\studia\funkcyjne projekt\funkcyjne projekt\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\studia\funkcyjne projekt\funkcyjne projekt\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\studia\funkcyjne projekt\funkcyjne projekt\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\studia\funkcyjne projekt\funkcyjne projekt\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\studia\funkcyjne projekt\funkcyjne projekt\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\studia\funkcyjne projekt\funkcyjne projekt\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\studia\funkcyjne projekt\funkcyjne projekt\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\studia\funkcyjne projekt\funkcyjne projekt\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\studia\funkcyjne projekt\funkcyjne projekt\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\studia\funkcyjne projekt\funkcyjne projekt\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\studia\funkcyjne projekt\funkcyjne projekt\obj\Debug\funkcyjn.837C8863.Up2Date
+C:\Users\votri\Desktop\testowe\funkcyjne projekt\bin\Debug\funkcyjne_projekt.xml
+C:\Users\votri\Desktop\testowe\funkcyjne projekt\bin\Debug\funkcyjne_projekt.exe
+C:\Users\votri\Desktop\testowe\funkcyjne projekt\bin\Debug\funkcyjne_projekt.pdb
+C:\Users\votri\Desktop\testowe\funkcyjne projekt\bin\Debug\FSharp.Core.dll
+C:\Users\votri\Desktop\testowe\funkcyjne projekt\bin\Debug\FSharp.Core.xml
+C:\Users\votri\Desktop\testowe\funkcyjne projekt\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\testowe\funkcyjne projekt\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\testowe\funkcyjne projekt\bin\Debug\en\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\testowe\funkcyjne projekt\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\testowe\funkcyjne projekt\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\testowe\funkcyjne projekt\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\testowe\funkcyjne projekt\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\testowe\funkcyjne projekt\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\testowe\funkcyjne projekt\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\testowe\funkcyjne projekt\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\testowe\funkcyjne projekt\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\testowe\funkcyjne projekt\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\testowe\funkcyjne projekt\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\testowe\funkcyjne projekt\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\testowe\funkcyjne projekt\obj\Debug\funkcyjne projekt.fsproj.AssemblyReference.cache
+C:\Users\votri\Desktop\testowe\funkcyjne projekt\obj\Debug\funkcyjn.837C8863.Up2Date
+C:\Users\votri\Desktop\testowe\funkcyjne projekt\obj\Debug\funkcyjne_projekt.exe
+C:\Users\votri\Desktop\testowe\funkcyjne projekt\obj\Debug\funkcyjne_projekt.pdb
+C:\Users\votri\Desktop\testowe\funkcyjne projekt\bin\Debug\Newtonsoft.Json.dll
+C:\Users\votri\Desktop\testowe\funkcyjne projekt\bin\Debug\Newtonsoft.Json.xml
+C:\Users\votri\Desktop\MacroRecorder\MacroRecorder\bin\Debug\funkcyjne_projekt.xml
+C:\Users\votri\Desktop\MacroRecorder\MacroRecorder\bin\Debug\funkcyjne_projekt.exe
+C:\Users\votri\Desktop\MacroRecorder\MacroRecorder\bin\Debug\funkcyjne_projekt.pdb
+C:\Users\votri\Desktop\MacroRecorder\MacroRecorder\bin\Debug\FSharp.Core.dll
+C:\Users\votri\Desktop\MacroRecorder\MacroRecorder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\votri\Desktop\MacroRecorder\MacroRecorder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\votri\Desktop\MacroRecorder\MacroRecorder\bin\Debug\FSharp.Core.xml
+C:\Users\votri\Desktop\MacroRecorder\MacroRecorder\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\MacroRecorder\MacroRecorder\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\MacroRecorder\MacroRecorder\bin\Debug\en\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\MacroRecorder\MacroRecorder\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\MacroRecorder\MacroRecorder\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\MacroRecorder\MacroRecorder\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\MacroRecorder\MacroRecorder\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\MacroRecorder\MacroRecorder\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\MacroRecorder\MacroRecorder\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\MacroRecorder\MacroRecorder\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\MacroRecorder\MacroRecorder\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\MacroRecorder\MacroRecorder\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\MacroRecorder\MacroRecorder\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\MacroRecorder\MacroRecorder\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Users\votri\Desktop\MacroRecorder\MacroRecorder\obj\Debug\MacroRecorder.fsproj.AssemblyReference.cache
+C:\Users\votri\Desktop\MacroRecorder\MacroRecorder\obj\Debug\MacroRec.459BD62D.Up2Date
+C:\Users\votri\Desktop\MacroRecorder\MacroRecorder\obj\Debug\funkcyjne_projekt.exe
+C:\Users\votri\Desktop\MacroRecorder\MacroRecorder\obj\Debug\funkcyjne_projekt.pdb
